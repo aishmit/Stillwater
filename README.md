@@ -41,10 +41,6 @@ go mod tidy
 go run main.go
 ```
 
-📜 License
-
-MIT License © 2025 [Aishmit Khurana]
-
 ## 📌 Roadmap
 
 - [ ] Interactive CLI prompts to classify new files
