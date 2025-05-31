@@ -1,4 +1,4 @@
-# 📂 Downloads Lifecycle Daemon
+# 📂 Stillwater
 
 A small Go-based daemon that helps you **organize, classify, and clean up your Downloads folder** over time. Designed to run continuously and support long-term file hygiene with user-defined rules.
 
